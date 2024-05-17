@@ -1,13 +1,16 @@
 # Croma-Stores-Footfall-Analysis
 
-Croma Store Footfall Analysis & Impact of Campaigning
-Merkle Sokrati - Dentsu Aegis Network July 2023 - Nov 2023
-• Spearheaded an advanced data analytics initiative, utilizing Pandas and NumPy within the Python ecosystem
+##Croma Store Footfall Analysis & Impact of Campaigning
+###Merkle Sokrati - Dentsu Aegis Network July 2023 - Nov 2023
+
+•Spearheaded an advanced data analytics initiative, utilizing Pandas and NumPy within the Python ecosystem
 for comprehensive exploratory data analysis (EDA). This involved meticulous data cleaning, ensuring adherence
 to best practices for structured and unstructured data.
+
 • Engineered a sophisticated store segmentation strategy based on campaign levels, showcasing a deep
 understanding of both upper and lower funnel campaigns. Leveraged machine learning algorithms for
 predictive modeling, optimizing campaign targeting and maximizing ROI.
+
 • Implemented statistical hypothesis testing during analysis, employing techniques such as A/B testing to
 validate the significance of observed trends. This rigorous statistical approach ensured the robustness of
 insights derived from the data.
