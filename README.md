@@ -1,5 +1,5 @@
 ![images](https://github.com/Abhihihi/Croma-Stores-Footfall-Analysis/assets/99393678/e8f135e6-8172-4c0d-9516-5dbc654fd891)
-# Croma-Stores-Footfall-Analysis
+# Croma Stores Footfall Analysis
 
 ## Croma Store Footfall Analysis & Impact of Campaigning
 ### Merkle Sokrati - Dentsu Aegis Network July 2023 - Nov 2023
