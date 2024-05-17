@@ -36,6 +36,5 @@ analytics proficiency and strategic communication. Contributed to the developmen
 models for predicting future footfall trends, optimizing decision-making processes.
 
 
-**This project showcases my expertise in cutting-edge data analytics technologies, statistical methodologies, and
-proficiency in utilizing diverse tools, aligning with the requirements of a Data Analyst role.
-**
+** This project showcases my expertise in cutting-edge data analytics technologies, statistical methodologies, and
+proficiency in utilizing diverse tools, aligning with the requirements of a Data Analyst role. **
